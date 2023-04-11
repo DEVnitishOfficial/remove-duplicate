@@ -1,0 +1,207 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: green;
+}
+body h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 60px;
+    color: red;
+    box-shadow: 0 0 50px rgb(20, 249, 4);
+}
+.box1{
+    display: flex;
+    margin: 50px 10px;
+    gap: 50px;
+    box-shadow: 0 0 20px;
+    background-color: aqua;
+    
+}
+.box1 button{
+    margin-left: 100px;
+    background-color: rgb(10, 206, 236);
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    border: none;
+    /* margin-left: -100px; */
+}
+.box1 button:hover{
+    background-color: rgb(135, 208, 156);
+    color: rgb(232, 38, 236);
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.img0{
+    padding: 10px 20px;
+    border: 5px solid red;
+}
+.img0:hover{
+    border: 5px solid blue;
+    box-shadow: 0 0 60px rgb(127, 9, 230);
+}
+
+.img1{
+    padding: 10px 20px;
+    border: 5px solid red;
+}
+.img1:hover{
+    border: 5px solid blue;
+    box-shadow: 0 0 60px rgb(10, 192, 212);
+}
+.img2{
+    padding: 10px 20px;
+    border: 5px solid red;
+}
+.img2:hover{
+    border: 5px solid blue;
+    box-shadow: 0 0 60px purple;
+}
+
+.pht0{
+    margin-left: 13px;
+    margin-top: 10px;
+}
+.pht1{
+    margin-left: 13px;
+    margin-top: 10px;
+}
+.box2{
+    display: flex;
+    margin: 200px 10px;
+    gap: 100px;
+    box-shadow: 0 0 20px;
+    background-color: lightsteelblue;
+}
+.box2 button{
+    margin-left: 100px;
+    background-color: rgb(10, 206, 236);
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    border: none;
+}
+.box2 button:hover{
+    background-color: rgb(135, 208, 156);
+    color: rgb(232, 38, 236);
+    font-size: 40px;
+    font-weight: 900;
+}
+.img3{
+    padding: 10px 20px;
+    border: 5px solid red;
+}
+.img3:hover{
+    border: 5px solid rgb(6, 112, 40);
+    box-shadow: 0 0 60px yellow;
+}
+
+.img4{
+    padding: 10px 20px;
+    border: 5px solid red;
+}
+.img4:hover{
+    border: 5px solid rgb(6, 112, 40);
+    box-shadow: 0 0 60px rgb(64, 245, 3);
+}
+.img5{
+    padding: 10px 20px;
+    border: 5px solid red;
+}
+.img5:hover{
+    border: 5px solid rgb(6, 112, 40);
+    box-shadow: 0 0 60px rgb(194, 15, 188);
+}
+.img5 button{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.pht5{
+    margin-top: 120px;
+    margin-left: 50px;
+}
+
+.box3{
+    display: flex;
+    margin: 200px 10px;
+    gap: 100px;
+    box-shadow: 0 0 20px;
+    background-color: rgb(145, 118, 132);
+}
+.box3 button{
+    margin-left: 100px;
+    background-color: rgb(10, 206, 236);
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    border: none;
+}
+.box3 button:hover{
+    background-color: rgb(135, 208, 156);
+    color: rgb(232, 38, 236);
+    font-size: 40px;
+    font-weight: 900;
+}
+button{
+    padding: 10px 20px;
+    background-color: red;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+.img6{
+    padding: 10px 20px;
+    border: 5px solid red;
+}
+.img6:hover{
+    border: 5px solid rgb(6, 112, 40);
+    box-shadow: 0 0 60px rgb(0, 225, 255);
+}
+.img6 button{
+    margin-left: 50px;
+}
+.img7{
+    padding: 10px 20px;
+    border: 5px solid red;
+}
+.img7:hover{
+    border: 5px solid rgb(6, 112, 40);
+    box-shadow: 0 0 60px rgb(118, 5, 238);
+}
+.img8{
+    padding: 10px 20px;
+    border: 5px solid red;
+}
+.img8:hover{
+    border: 5px solid rgb(6, 112, 40);
+    box-shadow: 0 0 60px rgb(3, 244, 63);
+}
+.pht7{
+    margin-top: 130px;
+    margin-left: 50px;
+   
+}
+.pht7:hover{
+   height: 300px;
+   width: 300px;
+}
+.img7 button{
+    margin-top: 50px;
+    margin-left: 60px;
+}
+#blankContainer{
+    height: 650px;
+    width: 2500px;
+    box-shadow: 0 0 30px;
+    background-color: rgb(240, 10, 10);
+    margin-top: 100px;
+    margin-bottom: 200px;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
